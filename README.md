@@ -1,2 +1,2 @@
-# End-to-End-Projects-with-Deployment
-This contains projects with deployment
+# Machine-learning_finance_retail_ecommerce_marketing
+This contains projects in finance,retail,ecommerce and marketing domain
