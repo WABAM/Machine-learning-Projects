@@ -1,2 +1,2 @@
-# Machine-Learning_Financial_Analytics
-This contains projects in Banking and Finance domain
+# Machine-learning_Financial_Customer_Retail_Marketing_Ecommerce_Analytics
+This contains projects in Financial_Customer_Retail_Marketing_Ecommerce_Domain
